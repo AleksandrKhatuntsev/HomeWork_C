@@ -1,0 +1,16 @@
+// Çàäà÷à 10
+void Zadacha10()
+{
+Console.WriteLine("Ââåäèòå òğåõçíà÷íîå ÷èñëî");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if (num > 99 && num < 1000)
+{
+     Console.WriteLine("Âòîğàÿ öèôğà ÷èñëà: " + (num / 10 % 10));
+}
+else 
+{
+    Console.WriteLine("Ââåäåíî íå òğ¸õçíà÷íîå ÷èñëî");
+}
+}
+Zadacha10();

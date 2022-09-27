@@ -1,0 +1,19 @@
+// Çàäà÷à 15 
+  void Zadacha15()
+  {
+  int day = 1;
+
+  if (day > 0 && day < 8)
+  {
+      if (day == 6 || day == 7)
+      {
+          Console.WriteLine("Âûõîäíîé");
+      }
+      else
+      {
+          Console.WriteLine("Áóäíèé");
+      }
+ 
+  }
+ }
+ Zadacha15();
