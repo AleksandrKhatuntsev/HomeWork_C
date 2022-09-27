@@ -1,0 +1,18 @@
+// Задача 23 Напишите программу, которая принимает на вход число N и выдает таблицу кубов чисел от 1 до N
+
+void Zadacha23()
+{
+    Console.WriteLine("Введите число");
+    int n = Convert.ToInt32(Console.ReadLine());
+    int count = 1;
+    
+
+    while (count < n)
+    {
+        double i = Math.Pow(count, 3);
+        Console.Write($"{i} | ");
+
+        count++;
+    }
+}
+Zadacha23();

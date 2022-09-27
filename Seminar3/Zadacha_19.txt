@@ -1,0 +1,24 @@
+﻿void Zadacha19()
+
+{
+    int [] arr = {1, 2, 3, 5, 1};
+    
+    
+        
+           if (arr[0] == arr[4] && arr[1] == arr[3])
+            {
+                Console.WriteLine("Число является полиндромом");
+            } 
+            
+             
+            else    Console.WriteLine("Число не является полиндромом");
+            
+            
+        
+        
+       
+     
+       
+        
+}
+Zadacha19();

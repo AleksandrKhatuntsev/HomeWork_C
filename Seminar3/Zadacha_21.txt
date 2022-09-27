@@ -1,0 +1,17 @@
+void Zadacha21()
+{
+    int x_a = 1;
+    int x_b = 2;
+    int x_c = 3;
+
+    int y_a = 4;
+    int y_b = 5;
+    int y_c = 6;
+
+    double res = Math.Sqrt(Math.Pow(x_a - y_a, 2) + Math.Pow(x_b - y_b, 2) + Math.Pow(x_c - y_c, 2));
+    
+    Console.WriteLine(res);
+
+
+}
+Zadacha21();
