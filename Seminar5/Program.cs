@@ -20,7 +20,7 @@ void FillArray2(double[] numbers,
      Random random = new Random();
      for (int i = 0; i < size; i++)
      {
-         numbers[i] = random.NextDouble();
+         numbers[i] = Math.Round(random.NextDouble() * 10, 2);
      }
 }
 
@@ -115,17 +115,21 @@ void Zadacha38()
     int size = 10;
     double[] numbers = new double[size];
     double max = numbers[0];
-    double min = numbers[0];
-    FillArray2(numbers, 10, 99);
+    double min = 1000;
+    FillArray2(numbers);
     PrintArray2(numbers);
      for (int i = 0; i < numbers.Length; i++)
         {
             if (max < numbers[i]) max = numbers[i];
-            else
-            {
-            if (numbers[i] > min) min = numbers[i];
-            }
+            if (numbers[i] < min) min = numbers[i];
+            //Console.WriteLine(min);    
+            
         }
+      
+        
+          
+            
+        
        
         Console.WriteLine(max);
         Console.WriteLine(min);
