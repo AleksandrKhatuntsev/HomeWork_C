@@ -1,0 +1,15 @@
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\bin\Debug\net6.0\Finish_work.exe
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\bin\Debug\net6.0\Finish_work.deps.json
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\bin\Debug\net6.0\Finish_work.runtimeconfig.json
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\bin\Debug\net6.0\Finish_work.dll
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\bin\Debug\net6.0\Finish_work.pdb
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.csproj.AssemblyReference.cache
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.AssemblyInfoInputs.cache
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.AssemblyInfo.cs
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.csproj.CoreCompileInputs.cache
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.dll
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\refint\Finish_work.dll
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.pdb
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\Finish_work.genruntimeconfig.cache
+D:\Users\ПК\Desktop\Home_Work_C\Finish_work\obj\Debug\net6.0\ref\Finish_work.dll
